@@ -1,40 +1,41 @@
-![Banner](https://raw.githubusercontent.com/danielacuadros/danielacuadros/main/banner.png)
+![Banner](https://raw.githubusercontent.com/danielacuadros/danielacuadros/main/banner1.png)
 
-## ¡Hola, soy Daniela Cuadros! 👋
+# Daniela Cuadros
 
-💻 **Desarrolladora Web** en formación y apasionada por la tecnología.  
-🌍 Desde **Colombia**  
-📚 Actualmente aprendiendo: **JavaScript, HTML y CSS**  
-📩 Puedes escribirme a: **[daniicuadros@gmail.com](mailto:daniicuadros@gmail.com)**  
-🔗 Mi perfil de LinkedIn: [linkedin.com/in/danielacuadrosmoreno](https://www.linkedin.com/in/danielacuadrosmoreno/)
+Desarrolladora web en formación, enfocada en el desarrollo y con gran interés por crear experiencias digitales funcionales y bien diseñadas.
 
 ---
 
-### 🛠️ Tecnologías
+## Sobre mí
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+Actualmente me encuentro aprendiendo y fortaleciendo mis habilidades en HTML, CSS y JavaScript.  
+Disfruto construir soluciones limpias, enfocadas en la experiencia del usuario y con atención al detalle.  
+Busco seguir creciendo profesionalmente en el ámbito del desarrollo web, combinando creatividad con lógica.
 
----
-
-### 📈 Estadísticas de GitHub
-
-![Daniela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielacuadros&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielacuadros&layout=compact&theme=react)
+- 📍 Colombia  
+- 📬 Contacto: [daniicuadros@gmail.com](mailto:daniicuadros@gmail.com)  
+- 🔗 [linkedin.com/in/danielacuadrosmoreno](https://www.linkedin.com/in/danielacuadrosmoreno/)
 
 ---
 
-### 🚀 Proyectos destacados
- 
-- [Tienda Haven 👗](https://github.com/danielacuadros/Haven)
-- [Basurero Inteligente con Arduino ♻️](https://github.com/danielacuadros/BasureroInteligente)
+## Tecnologías
+
+- HTML5  
+- CSS3  
+- JavaScript
 
 ---
 
-### 🌱 Sobre mí
+## Proyectos destacados
 
-Me encanta crear soluciones visuales, funcionales y amigables para el usuario. Estoy en constante aprendizaje, enfocada en mejorar mis habilidades técnicas y compartir lo que aprendo en mis proyectos.
+- [Tienda Haven](https://github.com/danielacuadros/Haven) – Sitio web de e-commerce con HTML y CSS.  
+- [Basurero Inteligente](https://github.com/danielacuadros/BasureroInteligente) – Proyecto Arduino para clasificación de residuos.
+
+---
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=danielacuadros&show_icons=true&theme=default&hide_title=true)
 
 ---
 
