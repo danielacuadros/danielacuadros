@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/danielacuadros/danielacuadros/main/banner1.png)
+![Banner]([https://raw.githubusercontent.com/danielacuadros/danielacuadros/main/banner1.png](https://github.com/danielacuadros/danielacuadros/blob/main/banner1.png?raw=true))
 
 # Daniela Cuadros
 
