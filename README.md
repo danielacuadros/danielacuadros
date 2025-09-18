@@ -33,7 +33,7 @@ Cuento además con **formación en administración de Salesforce**, lo que me pe
 ---
 
 ## Proyectos
-- **Haven** – Tienda virtual con carrito de compras.  
+- **Naf-Naf** – Tienda virtual 
 - **Gestor de clientes** – CRUD con Spring Boot y MySQL.  
 
 ---
